@@ -1,5 +1,3 @@
-package Program1;
-
 import java.util.Scanner;
 
 /**
