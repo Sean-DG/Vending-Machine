@@ -1,7 +1,4 @@
-package Program1;
-
 import java.util.Scanner;
-
 /**
  * A keypad that takes input from the user and displays useful information
  */
