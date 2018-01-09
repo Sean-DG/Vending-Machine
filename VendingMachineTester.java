@@ -1,4 +1,3 @@
-package Program1;
 import java.util.*;
 /**
  * This program tests the vendingMachine. The keypad
