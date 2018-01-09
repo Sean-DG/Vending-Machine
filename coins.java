@@ -1,4 +1,3 @@
-package Program1;
 /**
  * Coins inserted and used by vendingMachine
  */
