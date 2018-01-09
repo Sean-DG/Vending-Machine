@@ -1,4 +1,3 @@
-package Program1;
 /**
  * Snacks contained in the vending machine
  */
